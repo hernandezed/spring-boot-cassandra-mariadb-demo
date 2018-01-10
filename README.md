@@ -1,1 +1,1 @@
-# spring.boot.cassandra.unit.test
+# spring.boot.cassandra.mariadb.demo
