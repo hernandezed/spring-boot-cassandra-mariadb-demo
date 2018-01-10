@@ -1,0 +1,4 @@
+CREATE TABLE movie (
+    id bigint UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(45) NOT NULL
+);
