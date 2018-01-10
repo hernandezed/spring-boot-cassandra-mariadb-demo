@@ -74,13 +74,4 @@
             </plugin>
         </plugins>
     </build>
-    
-    <repositories>
-        <repository>
-            <id>mariadb4j-spring-boot-starter-repository</id>
-            <url>https://github.com/hernandezed/mariadb4j-spring-boot-starter/raw/repository</url>
-        </repository>
-    </repositories>
-
-
 </project>
