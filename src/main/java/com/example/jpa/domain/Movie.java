@@ -1,4 +1,4 @@
-package com.example.jpa;
+package com.example.jpa.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
