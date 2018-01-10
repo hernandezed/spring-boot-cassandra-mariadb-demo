@@ -6,8 +6,8 @@ import org.springframework.data.cassandra.repository.config.EnableCassandraRepos
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
-@EnableCassandraRepositories(basePackages = "com.example.cassandra.repository")
-@EnableJpaRepositories(basePackages = "com.example.jpa.repository")
+@EnableCassandraRepositories(basePackages = "com.example.cassandra")
+@EnableJpaRepositories(basePackages = "com.example.jpa")
 public class Application {
 
     public static void main(String[] args) {
