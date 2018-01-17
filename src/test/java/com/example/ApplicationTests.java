@@ -15,4 +15,5 @@ import org.springframework.test.context.support.DependencyInjectionTestExecution
 @CassandraDataSet(value = {"setupTables.cql"}, keyspace = "keyspaceToCreate")
 @CassandraUnit
 public abstract class ApplicationTests {
+    
 }
